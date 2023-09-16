@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Zubair Azam @zubairazam001
+- 👋 Hi, I’m Zubair Azam
 - 👀 I’m interested in Data Science/ Data Analyst jobs
 - 🌱 I’m currently working and learning ever-evolving techniques in Data Science. I actively engage in online courses, conferences, and professional networks to expand my knowledge and skills
 - 💞️ I’m looking for a new corporate environment where I can help the organization to find predictive business needs by analyzing existing data insights, hidden patterns, and trends
